@@ -1,0 +1,27 @@
+a{
+    border: 2px solid black;
+    background-color: rgb(77, 243, 243);
+    color: rgb(0, 0, 0);
+}
+#ii{
+   color: rgb(0, 0, 0);
+   width: 270px;
+   border: 2px solid rgb(0, 0, 0);
+   text-align: center;
+   background-color: rgb(151, 243, 255);
+}
+body{
+    background-image:url(kepek/1080p-3qmj7oaige168170.jpg) ;
+    margin: auto;
+    text-align: center;
+}
+#pipi{
+    color: white;
+    font-size: 30px;
+    border: ;
+}
+#cim{
+    color: rgb(144, 223, 255);
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
